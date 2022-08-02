@@ -1,0 +1,10 @@
+{
+    "paths": {
+        "react_lib": "SuiteScripts/logic_react_lib"
+    },
+    "shim" : {
+        "react_lib": {
+            "exports": "logic_react_lib"
+        }
+    }
+}
